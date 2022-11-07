@@ -1,0 +1,1 @@
+{"gcc_version": "12.2.0", "files": [{"lines": [], "functions": [], "file": "src/mongo/db/server_parameter_with_storage.cpp"}, {"lines": [], "functions": [], "file": "src/third_party/boost/boost/optional/optional.hpp"}], "format_version": "1", "current_working_directory": "/root/mongo", "data_file": "src/mongo/db/server_parameter_with_storage.cpp"}
